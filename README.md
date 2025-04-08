@@ -21,3 +21,28 @@ O projeto é estruturado da seguinte forma:
 ## Diagrama de Classes
 
 ![image](https://github.com/user-attachments/assets/09d05419-4988-4694-8281-2cdf94c584cd)
+
+## Funcionalidades
+- **Reprodutor Musical**:
+
+-`tocar()`: Inicia a reprodução de uma música.
+
+- `pausar()`: Pausa a música em reprodução.
+
+- `selecionarMusica(String musica)`: Seleciona uma música específica para reprodução.
+
+- **Aparelho Telefônico**:
+
+- `ligar(String numero)`: Realiza uma chamada para o número especificado.
+
+- `atender()`: Atende uma chamada recebida.
+
+- `iniciarCorreioVoz()`: Inicia o correio de voz.
+
+- **Navegador na Internet**:
+
+- `exibirPagina(String url)`: Exibe a página da web correspondente ao URL fornecido.
+
+- `adicionarNovaAba()`: Abre uma nova aba no navegador.
+
+- `atualizarPagina()`: Atualiza a página atual.
