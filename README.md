@@ -25,7 +25,7 @@ O projeto é estruturado da seguinte forma:
 ## Funcionalidades
 - **Reprodutor Musical**:
 
--`tocar()`: Inicia a reprodução de uma música.
+- `tocar()`: Inicia a reprodução de uma música.
 
 - `pausar()`: Pausa a música em reprodução.
 
